@@ -1,0 +1,8 @@
+dist/
+*.tar.gz
+*.tgz
+.env
+.env.*
+!.env.example
+categories-preview.png
+ai-generation-sample.png
